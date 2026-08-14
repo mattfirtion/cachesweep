@@ -4,5 +4,6 @@
     "config:recommended"
   ],
   "semanticCommits": "enabled",
-  "commitMessageLowerCase": "auto"
+  "commitMessageLowerCase": "auto",
+  "forkProcessing": "enabled"
 }
